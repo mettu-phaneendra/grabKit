@@ -174,7 +174,7 @@ The demo video has been made with CaptureRecord. https://github.com/gabriel/Capt
 Donations
 -------
 
-GrabKit is **\*100% free**\* .
+GrabKit is 100% free .
 However, developing and supporting this project is hard work and costs real money. Please help support the development of GrabKit !
 
 **10%** of your donations is donated to the **Free Software Foundation**.
